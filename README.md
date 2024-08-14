@@ -7,8 +7,8 @@ This project implements a fake news detection system using machine learning. The
 ## Project Structure
 
 - `fake_news_detection.py`: Contains the code for training the model and classifying new news articles.
-- `path_to_fake.csv`: CSV file containing fake news articles. Must include columns: `title`, `text`, `subject`, `date`.
-- `path_to_true.csv`: CSV file containing true news articles. Must include columns: `title`, `text`, `subject`, `date`.
+- 'Fake.csv`: CSV file containing fake news articles. Must include columns: `title`, `text`, `subject`, `date`.
+- `True.csv`: CSV file containing true news articles. Must include columns: `title`, `text`, `subject`, `date`.
 
 ## Dependencies
 
